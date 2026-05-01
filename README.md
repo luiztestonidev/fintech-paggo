@@ -5,3 +5,4 @@ Tela de pagamento iniciada
 Adicionando layout da Tela
 
 Historico de pagina iniciado
+Ajustes de historico de pagina
